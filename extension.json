@@ -1,0 +1,7 @@
+{
+  "id": "cf-wikidata-ui-extension-example",
+  "name": "Contentful wikidata.org UI extension",
+  "srcdoc": "./dist/index.html",
+  "fieldTypes": ["Symbol","Text"],
+  "sidebar": false
+}

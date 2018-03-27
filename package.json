@@ -1,0 +1,14 @@
+{
+  "name": "cf-wikidata-ui-extension-example",
+  "description": "A Contentful UI extension to utilize wikidata.org information in your workflow",
+  "version": "0.1.0",
+  "author": "Christoph Grabo <asaaki@mannaz.cc>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6",
+    "babelify": "^8",
+    "babel-core": "^6",
+    "browserify": "^15",
+    "contentful-cli": "^0.8"
+  }
+}

@@ -1,0 +1,2 @@
+export SPACE=mySpaceIdHere
+export CONTENTFUL_MANAGEMENT_ACCESS_TOKEN=CFPAT-myPersonalAccessTokenHere
